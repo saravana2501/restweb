@@ -1,6 +1,6 @@
 # Ex.07 Restaurant Website
 ## Date: 29/04/2025
-## Name: Saravana Kuamr S
+## Name: Saravana Kumar S
 ## Reg no: 212224220090
 
 ## AIM:
@@ -269,9 +269,9 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-Screenshot 2024-12-14 202039
+![Screenshot 2025-04-29 141707](https://github.com/user-attachments/assets/d5520b28-f3b9-44fd-bf99-ccb325b1deff)
 
-Screenshot 2024-12-14 202053
+![Screenshot 2025-04-29 141750](https://github.com/user-attachments/assets/2dc5f5af-98f4-46d1-bd6f-2e61bcc65fe9)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
